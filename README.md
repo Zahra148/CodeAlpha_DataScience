@@ -115,6 +115,6 @@ Each script is **self-contained** — just run it and all figures + outputs are 
 
 - [x] GitHub repo: `CodeAlpha_DataScience`
 - [x] All task scripts complete & documented
-- [ ] Submission via WhatsApp group form
+- [x] Submission via WhatsApp group form
 
 ---
