@@ -1,5 +1,5 @@
 # 🎓 CodeAlpha Data Science Internship — All Tasks
-**Intern:** [Your Name]  
+**Intern:** NAYYAB ZAHRA  
 **Domain:** Data Science  
 **Company:** CodeAlpha ([codealpha.tech](https://www.codealpha.tech))
 
